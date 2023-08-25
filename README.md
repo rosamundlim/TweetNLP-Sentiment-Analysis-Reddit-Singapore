@@ -38,7 +38,7 @@ r/singapore mostly react negatively, you can observe the emotion labels that are
 Sentiment group by reddit thread: ![article_sentiments](https://github.com/rosamundlim/TweetNLP-Sentiment-Analysis-Reddit-Singapore/assets/42547859/02ac3877-46ac-4ac4-a97b-eee2d691956a) 
 Now, group it according to the corresponding reddit thread in r/singapore and normalize each emotion within a group by the total count in each group to get a percentage value. 
 
-Most negative reactions: 
+Most negative: 
 1. [Tan Kin Lian's 'pretty girls' posts ignite debate about objectifying women, assessment of presidential candidates](https://www.reddit.com/r/singapore/comments/15yt7fq/tan_kin_lians_pretty_girls_posts_ignite_debate/)
 2. [Presidential hopeful Tan Kin Lian accuses various parties of smear campaign](https://www.reddit.com/r/singapore/comments/15xqltm/presidential_hopeful_tan_kin_lian_accuses_various/)
 3. [Tan Kin Lian rejects AWARE's concerns he 'objectifies' women, his daughter defends him](https://www.reddit.com/r/singapore/comments/15xrbiy/tan_kin_lian_rejects_awares_concerns_he/) 
