@@ -32,10 +32,10 @@ Main issue is the idiosyncracy of Singlish on r/singapore that may be a challeng
 ## Results 
 After tagging each comment and classifying it into the emotion label, prepare the dataframe and relevant tabulations. 
 
-Overall sentiment: ![overall_sentiments](https://github.com/rosamundlim/TweetNLP-Sentiment-Analysis-Reddit-Singapore/assets/42547859/739b9aec-414f-48db-8202-e37ffd43abc0)
-r/singapore mostly react negatively, you can observe the emotion labels that are being tagged by Tweetnlp model. 
+Overall sentiment: ![overall_sentiments (1)](https://github.com/rosamundlim/TweetNLP-Sentiment-Analysis-Reddit-Singapore/assets/42547859/c7cb0c16-14d4-4bed-963f-e9d902d1e441)
+r/singapore mostly react negatively towards posts regarding Mr. Tan Kin Lian's candidacy, as you can observe the emotion labels that are being tagged by Tweetnlp model. 
 
-Sentiment group by reddit thread: ![article_sentiments](https://github.com/rosamundlim/TweetNLP-Sentiment-Analysis-Reddit-Singapore/assets/42547859/02ac3877-46ac-4ac4-a97b-eee2d691956a) 
+Sentiment group by reddit thread: ![article_sentiments (1)](https://github.com/rosamundlim/TweetNLP-Sentiment-Analysis-Reddit-Singapore/assets/42547859/8968f118-2f5f-4f03-98f3-4b735167c3c7) 
 Now, group it according to the corresponding reddit thread in r/singapore and normalize each emotion within a group by the total count in each group to get a percentage value. 
 
 Most negative: 
